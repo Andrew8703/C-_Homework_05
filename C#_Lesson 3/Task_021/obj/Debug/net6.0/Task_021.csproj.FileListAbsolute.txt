@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\С#\C#_Lesson 3\Task_021\bin\Debug\net6.0\Task_021.exe
+C:\Users\User\Desktop\С#\C#_Lesson 3\Task_021\bin\Debug\net6.0\Task_021.deps.json
+C:\Users\User\Desktop\С#\C#_Lesson 3\Task_021\bin\Debug\net6.0\Task_021.runtimeconfig.json
+C:\Users\User\Desktop\С#\C#_Lesson 3\Task_021\bin\Debug\net6.0\Task_021.dll
+C:\Users\User\Desktop\С#\C#_Lesson 3\Task_021\bin\Debug\net6.0\ref\Task_021.dll
+C:\Users\User\Desktop\С#\C#_Lesson 3\Task_021\bin\Debug\net6.0\Task_021.pdb
+C:\Users\User\Desktop\С#\C#_Lesson 3\Task_021\obj\Debug\net6.0\Task_021.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\С#\C#_Lesson 3\Task_021\obj\Debug\net6.0\Task_021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\С#\C#_Lesson 3\Task_021\obj\Debug\net6.0\Task_021.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\С#\C#_Lesson 3\Task_021\obj\Debug\net6.0\Task_021.AssemblyInfo.cs
+C:\Users\User\Desktop\С#\C#_Lesson 3\Task_021\obj\Debug\net6.0\Task_021.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\С#\C#_Lesson 3\Task_021\obj\Debug\net6.0\Task_021.dll
+C:\Users\User\Desktop\С#\C#_Lesson 3\Task_021\obj\Debug\net6.0\ref\Task_021.dll
+C:\Users\User\Desktop\С#\C#_Lesson 3\Task_021\obj\Debug\net6.0\Task_021.pdb
+C:\Users\User\Desktop\С#\C#_Lesson 3\Task_021\obj\Debug\net6.0\Task_021.genruntimeconfig.cache
